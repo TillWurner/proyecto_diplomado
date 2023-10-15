@@ -14,11 +14,6 @@
         <!-- Scripts -->
         @vite(['resources/css/app.css', 'resources/js/app.js'])
 
-        <style>
-            body {
-                background-color: red; 
-            }
-        </style>
 
         <!-- Styles -->
         @livewireStyles
